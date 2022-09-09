@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.13+commit.abaa5c0e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "sayHelloSolidity",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"HelloSolidity.sol": "HelloSolidity"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"HelloSolidity.sol": {
+			"keccak256": "0x242d5081dc5c9aa6c0b945dc095e5783a13c3b39fff13ea91d43bf37f9e4b472",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://27b5c3d813c481af85ecd15efca10cd793ad3f0902635a2cd4100d5b981c5756",
+				"dweb:/ipfs/QmSGMv6Akg9SfjwjcUw5rTYJCj5oN8N1CM3G3256jFc6o3"
+			]
+		}
+	},
+	"version": 1
+}
